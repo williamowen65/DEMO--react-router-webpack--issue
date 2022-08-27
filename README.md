@@ -14,3 +14,10 @@ except in one important way!
 So far, I found it only works with Create React
 App.... but I love having custom setups. Please
 help.
+
+to start up run
+
+```
+npm i
+npm run dev
+```
